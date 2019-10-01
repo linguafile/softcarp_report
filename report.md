@@ -12,4 +12,6 @@ The **Software Carpentry** workshop was held at UQ on 30th of Sept. -ist of oct.
 # what I didn't like
 *steph's humour
 
+#an example of an object
+vector1 <- 1:10
 
