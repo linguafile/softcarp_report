@@ -9,4 +9,7 @@ The **Software Carpentry** workshop was held at UQ on 30th of Sept. -ist of oct.
 *not quite so good food at St. Lucia
 *bad food at St Lucia
 
+# what I didn't like
+*steph's humour
+
 
